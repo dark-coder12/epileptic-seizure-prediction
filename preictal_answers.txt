@@ -1,0 +1,125 @@
+File = chb01_01.edf - Time: 11:42:54 - 12:42:54 - Number of Seizures in File: 0
+______________________________________________
+File = chb01_02.edf - Time: 12:42:57 - 13:42:57 - Number of Seizures in File: 0
+______________________________________________
+File = chb01_03.edf - Time: 13:43:04 - 14:43:04 - Number of Seizures in File: 1
+
+Seizure Start Time (h:mm:ss): 14:33:00 - Seizure End Time (h:mm:ss): 14:33:40 
+
+Preictal Time: 14:03:00 
+
+
+______________________________________________
+File = chb01_04.edf - Time: 14:43:12 - 15:43:12 - Number of Seizures in File: 1
+
+Seizure Start Time (h:mm:ss): 15:07:39 - Seizure End Time (h:mm:ss): 15:08:06 
+
+Time 30 Minutes Before Start (h:mm:ss): 14:37:39 
+
+
+______________________________________________
+File = chb01_05.edf - Time: 15:43:19 - 16:43:19 - Number of Seizures in File: 0
+______________________________________________
+File = chb01_06.edf - Time: 16:43:26 - 17:43:26 - Number of Seizures in File: 0
+______________________________________________
+File = chb01_07.edf - Time: 17:43:33 - 18:43:33 - Number of Seizures in File: 0
+______________________________________________
+File = chb01_08.edf - Time: 18:43:40 - 19:43:40 - Number of Seizures in File: 0
+______________________________________________
+File = chb01_09.edf - Time: 19:43:56 - 20:43:56 - Number of Seizures in File: 0
+______________________________________________
+File = chb01_10.edf - Time: 20:44:07 - 21:44:07 - Number of Seizures in File: 0
+______________________________________________
+File = chb01_11.edf - Time: 21:44:14 - 22:44:14 - Number of Seizures in File: 0
+______________________________________________
+File = chb01_12.edf - Time: 22:44:22 - 23:44:22 - Number of Seizures in File: 0
+______________________________________________
+File = chb01_13.edf - Time: 23:44:29 - 24:44:29 - Number of Seizures in File: 0
+______________________________________________
+File = chb01_14.edf - Time: 00:44:37 - 01:44:37 - Number of Seizures in File: 0
+______________________________________________
+File = chb01_15.edf - Time: 01:44:44 - 02:44:44 - Number of Seizures in File: 1
+
+Seizure Start Time (h:mm:ss): 02:13:36 - Seizure End Time (h:mm:ss): 02:14:16
+
+Time 30 Minutes Before Start (h:mm:ss): 01:43:36
+
+
+______________________________________________
+File = chb01_16.edf - Time: 02:44:51 - 03:44:51 - Number of Seizures in File: 1
+
+Seizure Start Time (h:mm:ss): 03:01:46 - Seizure End Time (h:mm:ss): 03:02:37
+
+Time 30 Minutes Before Start (h:mm:ss): 02:31:46
+
+
+______________________________________________
+File = chb01_17.edf - Time: 03:44:59 - 04:44:59 - Number of Seizures in File: 0
+______________________________________________
+File = chb01_18.edf - Time: 04:45:06 - 05:45:06 - Number of Seizures in File: 1
+
+Seizure Start Time (h:mm:ss): 05:13:46 - Seizure End Time (h:mm:ss): 05:15:16
+
+Time 30 Minutes Before Start (h:mm:ss): 04:43:46
+
+
+______________________________________________
+File = chb01_19.edf - Time: 05:45:13 - 06:45:13 - Number of Seizures in File: 0
+______________________________________________
+File = chb01_20.edf - Time: 06:45:20 - 07:29:43 - Number of Seizures in File: 0
+______________________________________________
+File = chb01_21.edf - Time: 07:33:46 - 08:33:46 - Number of Seizures in File: 1
+
+Seizure Start Time (h:mm:ss): 07:39:13 - Seizure End Time (h:mm:ss): 07:40:46
+
+Time 30 Minutes Before Start (h:mm:ss): 07:09:13
+
+
+______________________________________________
+File = chb01_22.edf - Time: 08:33:49 - 09:33:49 - Number of Seizures in File: 0
+______________________________________________
+File = chb01_23.edf - Time: 09:33:58 - 10:33:58 - Number of Seizures in File: 0
+______________________________________________
+File = chb01_24.edf - Time: 10:34:06 - 11:34:06 - Number of Seizures in File: 0
+______________________________________________
+File = chb01_25.edf - Time: 11:34:14 - 12:34:14 - Number of Seizures in File: 0
+______________________________________________
+File = chb01_26.edf - Time: 12:34:22 - 13:13:07 - Number of Seizures in File: 1
+
+Seizure Start Time (h:mm:ss): 13:05:24 - Seizure End Time (h:mm:ss): 13:07:05
+
+Time 30 Minutes Before Start (h:mm:ss): 12:35:24
+
+______________________________________________
+File = chb01_27.edf - Time: 13:13:21 - 13:23:21 - Number of Seizures in File: 0
+______________________________________________
+File = chb01_29.edf - Time: 13:24:08 - 14:24:08 - Number of Seizures in File: 0
+______________________________________________
+File = chb01_30.edf - Time: 14:24:15 - 15:24:15 - Number of Seizures in File: 0
+______________________________________________
+File = chb01_31.edf - Time: 15:24:24 - 16:24:24 - Number of Seizures in File: 0
+______________________________________________
+File = chb01_32.edf - Time: 16:24:32 - 17:24:32 - Number of Seizures in File: 0
+______________________________________________
+File = chb01_33.edf - Time: 17:24:39 - 18:24:39 - Number of Seizures in File: 0
+______________________________________________
+File = chb01_34.edf - Time: 18:24:46 - 19:24:46 - Number of Seizures in File: 0
+______________________________________________
+File = chb01_36.edf - Time: 22:14:43 - 23:14:43 - Number of Seizures in File: 0
+______________________________________________
+File = chb01_37.edf - Time: 23:14:46 - 24:14:46 - Number of Seizures in File: 0
+______________________________________________
+File = chb01_38.edf - Time: 00:14:53 - 01:14:53 - Number of Seizures in File: 0
+______________________________________________
+File = chb01_39.edf - Time: 01:15:01 - 02:15:01 - Number of Seizures in File: 0
+______________________________________________
+File = chb01_40.edf - Time: 02:15:08 - 03:15:08 - Number of Seizures in File: 0
+______________________________________________
+File = chb01_41.edf - Time: 03:15:15 - 04:15:15 - Number of Seizures in File: 0
+______________________________________________
+File = chb01_42.edf - Time: 04:15:22 - 05:15:22 - Number of Seizures in File: 0
+______________________________________________
+File = chb01_43.edf - Time: 05:15:29 - 06:15:29 - Number of Seizures in File: 0
+______________________________________________
+File = chb01_46.edf - Time: 08:15:51 - 09:15:51 - Number of Seizures in File: 0
+______________________________________________
